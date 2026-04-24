@@ -1,0 +1,50 @@
+AI Space (Quick Guide)
+
+1. Chat
+Main chat page.
+Double-click Chat to create a new chat.
+
+2. Star
+Favorite current chat.
+Favorited chats are saved in project file.
+
+3. Bubble Colors
+Orange: normal reply
+Green: reply with tree data
+Double-click green bubble to get the tree.
+
+4. Right Arrow
+Open Tree Context panel.
+
+Scope:
+Node / Path / Global
+
+Intent:
+Analyze / Expand / Critique / Summarize
+
+When enabled:
+Zentree context is included.
+Send becomes Send with tree.
+
+5. I want a tree
+Ask AI to return tree-structured output.
+
+6. History
+View old chats.
+
+Select to Context:
+Add old chat into current context.
+
++ New:
+Create a new chat.
+
+7. Workflow
+
+Normal chat:
+Type -> Send
+
+Tree output:
+Enable I want a tree -> Send
+
+Context analysis:
+Open Tree Context -> Send with tree

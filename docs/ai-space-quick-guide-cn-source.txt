@@ -1,0 +1,52 @@
+AI Space (Translated from the original Chinese source note)
+
+This file keeps an English rendering of the earlier Chinese draft so the
+repository can stay English-first while preserving the original intent.
+
+1. Chat
+Main chat page.
+Double-click Chat to create a new chat.
+
+2. Star
+Save the current chat as a favorite.
+Favorited chats are stored in the project file.
+
+3. Bubble Colors
+Orange: normal reply
+Green: reply with tree data
+Double-click a green bubble to retrieve the tree.
+
+4. Tree Context
+Open the Tree Context panel.
+
+Scope:
+Node / Path / Global
+
+Intent:
+Analyze / Expand / Critique / Summarize
+
+When enabled, Zentree context is attached and the send action becomes
+Send with tree.
+
+5. I want a tree
+Ask the AI to return a tree-structured response.
+
+6. History
+Browse previous chats.
+
+Select to Context:
+Bring an older chat into the current context.
+
++ New:
+Create a new chat.
+
+7. Suggested workflow
+
+Normal chat:
+Type -> Send
+
+Tree output:
+Enable I want a tree -> Send
+
+Context-based analysis:
+Open Tree Context -> Send with tree

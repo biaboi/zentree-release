@@ -1,0 +1,58 @@
+What is Zentree?
+
+Zentree is a thinking workspace where ideas grow as trees.
+
+It is built for problems too complex for one chat window.
+
+Instead of only storing answers, Zentree helps you organize:
+
+branching thoughts
+multiple paths
+unfinished ideas
+long-term reasoning
+evolving decisions
+
+AI can generate structures and options.
+You keep control of the final shape.
+
+How is Zentree different from ChatGPT?
+
+ChatGPT is great for quick answers.
+
+Zentree is built for deeper thinking.
+
+ChatGPT gives linear conversations.
+Zentree keeps reasoning visible as a tree.
+
+ChatGPT responses fade over time.
+Zentree structures can be refined and reused.
+
+ChatGPT gives answers.
+Zentree helps build thinking systems.
+
+How is Zentree different from note apps?
+
+Note apps store information.
+
+Zentree develops ideas.
+
+Notes are document-based and static.
+
+Zentree is node-based and flexible.
+
+Ideas can split, merge, expand, and evolve.
+
+Who is Zentree for?
+
+People who:
+
+think in multiple directions
+compare options deeply
+work on long-term projects
+want AI help without losing judgment
+
+Core Philosophy
+
+AI assists the thinking process.
+
+It should help structure ideas, not own them.
